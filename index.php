@@ -3,18 +3,9 @@
     <head>
         <meta charset="utf-8" />
         <link rel="stylesheet" href="style2.css" />
-        <!--[if lt IE 9]>
-        <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-        <![endif]-->
         <title>LRDQ</title>
     </head>
-    
-    <!--[if IE 6 ]><body class="ie6 old_ie"><![endif]-->
-    <!--[if IE 7 ]><body class="ie7 old_ie"><![endif]-->
-    <!--[if IE 8 ]><body class="ie8"><![endif]-->
-    <!--[if IE 9 ]><body class="ie9"><![endif]-->
-    <!--[if !IE]><!--><body><!--<![endif]-->
-        <div id="bloc_page">
+            <div id="bloc_page">
             <header>
                 <div id="titre_principal">
                     <img src="images/logo_aug.png"   width="180" height="180" alt="Logo de LRDQ" id="logo" />
