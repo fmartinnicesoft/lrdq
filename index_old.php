@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="utf-8" />
-        <link rel="stylesheet" href="css/style2.css" />
+        <link rel="stylesheet" href="style2.css" />
         <title>LRDQ</title>
     </head>
     <div id="bloc_page">
